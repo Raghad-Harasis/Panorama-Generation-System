@@ -1,4 +1,4 @@
-This VI meticulously generates panoramic images through a carefully structured process:
+This VI generates panoramic images through a structured process:
 
 Lens Distortion Correction: Specifically addressing Barrel Distortion to ensure precise visual accuracy.
 Brightness Variation Compensation: Achieving a seamless transition by compensating variations in brightness.
