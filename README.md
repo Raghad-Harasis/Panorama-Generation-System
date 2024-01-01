@@ -1,12 +1,8 @@
-This VI generates panoramic images through a structured process:
+This system was developed by Eng. Raghad O. Al-Harasis  and Prof. Belal H. Sababha at Princess Sumaya University for Technology. The system utilizes two wide-angle cameras that capture images continuously and blend them seamlessly in real-time to generate natural-looking viewing.  The system is implemented using LabVIEW and it is adaptable to any hardware type. 
 
-Lens Distortion Correction: Specifically addressing Barrel Distortion to ensure precise visual accuracy.
-Brightness Variation Compensation: Achieving a seamless transition by compensating variations in brightness.
-ROI Blending: Merging carefully determined Regions of Interest (ROIs) using a selected method (Weighted Average - Default, Multi-Band Blending, Wavelet Extraction).
-Final Panorama Output: Projecting the corrected and blended elements to produce the ultimate panorama.
-
-User Steps: Navigate to the "Tuning Control Tab" and follow these steps:
-
+User Steps: 
+Download the attached "Grid.png" image to be used for camera calibration. 
+Navigate to the "Tuning Control Tab" and follow these steps:
 Select Grid Image Path: Specify the path for the grid image.
 Input Grid Image Name: Enter the grid image name as saved in the device, including its extension.
 Choose Left and Right Cameras: Indicate the cameras for the left and right images.
