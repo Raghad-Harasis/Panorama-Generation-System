@@ -1,4 +1,6 @@
-This system was developed by Eng. Raghad O. Al-Harasis  and Prof. Belal H. Sababha at Princess Sumaya University for Technology. The system utilizes two wide-angle cameras that capture images continuously and blend them seamlessly in real-time to generate natural-looking viewing.  The system is implemented using LabVIEW and it is adaptable to any hardware type. 
+This system was developed by Eng. Raghad O. Al-Harasis  and Prof. Belal H. Sababha at Princess Sumaya University for Technology. 
+
+The system utilizes two wide-angle cameras that capture images continuously and blend them seamlessly in real-time to generate natural-looking viewing.  The system is implemented using LabVIEW and it is adaptable to any hardware type. 
 
 User Steps: 
 Download the attached "Grid.png" image to be used for camera calibration. 
