@@ -5,7 +5,7 @@ The system utilizes two wide-angle cameras that capture images continuously and 
 
 Follow the "User Steps" below to try the program. 
 
-1. Download the "Grid.png" image to be used for camera calibration.
+1. Download the "Grid.pdf" image to be used for camera calibration.
 2. Download the "Panorama Generation- cameras. vi" if you want to try the system with cameras or "Panorama Generation-samples. vi" if you want to try the system with sample images. 
 3. Open the VI and Navigate to the "Tuning Control Tab."
 4. Select Grid Image Path: Specify the path for the grid image.
@@ -16,3 +16,4 @@ Follow the "User Steps" below to try the program.
 9. ROI Resolution: Specify the resolution for the Regions of Interest (ROIs).
 10. Blending Method: Select the preferred blending method (Weighted Average - Default, Multi-Band Blending, Wavelet Extraction).
 11. Run the VI.
+Note: To run the stitcher for only stitching sample images without using cameras, run Panorama_Generation_samples to correct and blend the images. In this case, you may need to modify the calibration info to match the image's extrinsic and intrinsic parameters.
